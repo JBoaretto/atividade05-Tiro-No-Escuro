@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include "util.h"
 
+// Alunos
+// João Pedro Boaretto - 16876293
+// Lorena Borges - 16883652
+
 static inline void swap_int(int *a, int *b) {
     int tmp = *a;
     *a = *b;
